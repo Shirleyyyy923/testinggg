@@ -1,0 +1,192 @@
+{"kind":"deck","id":"pr/odmmr8","name":"Deck"}
+{"kind":"layout","layoutId":"3353ee65-cb05-44af-8f38-d7e1f494a4a6","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"140dbd1a-54e4-478b-bdb7-f10c7982e844","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/bw8ihz","slide":1,"title":"Made for Ms Shirley's Students","textShapes":6}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":1,"text":"Made for Ms Shirley's Students","textPreview":"Made for Ms Shirley's Students","textChars":30,"textLines":1,"bbox":[70,82,520,30]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":1,"text":"Daily English Games","textPreview":"Daily English Games","textChars":19,"textLines":1,"bbox":[70,130,540,150]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":1,"text":"用万用句型和小游戏，让学生敢开口说日常英文。","textPreview":"用万用句型和小游戏，让学生敢开口说日常英文。","textChars":22,"textLines":1,"bbox":[74,306,500,72]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":1,"bbox":[74,438,150,46]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":1,"text":"100 常用句","textPreview":"100 常用句","textChars":7,"textLines":1,"bbox":[88,448,122,24]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":1,"bbox":[244,438,150,46]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":1,"text":"5 个小游戏","textPreview":"5 个小游戏","textChars":6,"textLines":1,"bbox":[258,448,122,24]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":1,"bbox":[414,438,190,46]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":1,"text":"15 分钟可上课","textPreview":"15 分钟可上课","textChars":8,"textLines":1,"bbox":[428,448,162,24]}
+{"kind":"image","id":"im/psfil0rq","slide":1,"name":"","geometry":"roundRect","alt":"Ms Shirley Daily English Games classroom","bbox":[626,84,560,336]}
+{"kind":"notes","id":"nt/bw8ihz","slide":1,"text":""}
+{"kind":"slide","id":"sl/5stxjp","slide":2,"title":"LESSON FLOW","textShapes":12}
+{"kind":"textbox","id":"sh/4zidonyd","slide":2,"text":"LESSON FLOW","textPreview":"LESSON FLOW","textChars":11,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":2,"text":"15分钟训练法","textPreview":"15分钟训练法","textChars":7,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":2,"bbox":[110,194,28,28]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":2,"text":"1. Listen","textPreview":"1. Listen","textChars":9,"textLines":1,"bbox":[156,188,934,30]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":2,"text":"老师示范一句，学生只听关键词。","textPreview":"老师示范一句，学生只听关键词。","textChars":15,"textLines":1,"bbox":[156,222,934,36]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":2,"bbox":[110,280,28,28]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":2,"text":"2. Repeat","textPreview":"2. Repeat","textChars":9,"textLines":1,"bbox":[156,274,934,30]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":2,"text":"全班跟读 3 次：慢、自然、有表情。","textPreview":"全班跟读 3 次：慢、自然、有表情。","textChars":18,"textLines":1,"bbox":[156,308,934,36]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":2,"bbox":[110,366,28,28]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":2,"text":"3. Replace","textPreview":"3. Replace","textChars":10,"textLines":1,"bbox":[156,360,934,30]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":2,"text":"换食物、地点、要求，学生马上造新句。","textPreview":"换食物、地点、要求，学生马上造新句。","textChars":18,"textLines":1,"bbox":[156,394,934,36]}
+{"kind":"shape","id":"sh/oj2t83it","slide":2,"bbox":[110,452,28,28]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":2,"text":"4. Play","textPreview":"4. Play","textChars":7,"textLines":1,"bbox":[156,446,934,30]}
+{"kind":"textbox","id":"sh/61032lsz","slide":2,"text":"用小游戏让学生在情境里说出来。","textPreview":"用小游戏让学生在情境里说出来。","textChars":15,"textLines":1,"bbox":[156,480,934,36]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":2,"bbox":[110,538,28,28]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":2,"text":"5. Speak","textPreview":"5. Speak","textChars":8,"textLines":1,"bbox":[156,532,934,30]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":2,"text":"两人一组角色扮演，老师只纠正重点。","textPreview":"两人一组角色扮演，老师只纠正重点。","textChars":17,"textLines":1,"bbox":[156,566,934,36]}
+{"kind":"notes","id":"nt/5stxjp","slide":2,"text":""}
+{"kind":"slide","id":"sl/whndvn","slide":3,"title":"MAGIC SENTENCES","textShapes":12}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":3,"text":"MAGIC SENTENCES","textPreview":"MAGIC SENTENCES","textChars":15,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":3,"text":"10个万用句型","textPreview":"10个万用句型","textChars":7,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"shape","id":"sh/7adsji5s","slide":3,"bbox":[88,184,500,58]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":3,"text":"Can I have ..., please?","textPreview":"Can I have ..., please?","textChars":23,"textLines":1,"bbox":[108,198,460,28]}
+{"kind":"shape","id":"sh/psfil0rq","slide":3,"bbox":[648,184,500,58]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":3,"text":"I would like ..., please.","textPreview":"I would like ..., please.","textChars":25,"textLines":1,"bbox":[668,198,460,28]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":3,"bbox":[88,270,500,58]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":3,"text":"Can you ..., please?","textPreview":"Can you ..., please?","textChars":20,"textLines":1,"bbox":[108,284,460,28]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":3,"bbox":[648,270,500,58]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":3,"text":"May I ..., please?","textPreview":"May I ..., please?","textChars":18,"textLines":1,"bbox":[668,284,460,28]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":3,"bbox":[88,356,500,58]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":3,"text":"Where can I find ...?","textPreview":"Where can I find ...?","textChars":21,"textLines":1,"bbox":[108,370,460,28]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":3,"bbox":[648,356,500,58]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":3,"text":"How much is ...?","textPreview":"How much is ...?","textChars":16,"textLines":1,"bbox":[668,370,460,28]}
+{"kind":"shape","id":"sh/obm58z25","slide":3,"bbox":[88,442,500,58]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":3,"text":"Do you have ...?","textPreview":"Do you have ...?","textChars":16,"textLines":1,"bbox":[108,456,460,28]}
+{"kind":"shape","id":"sh/65wjudg7","slide":3,"bbox":[648,442,500,58]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":3,"text":"I need ...","textPreview":"I need ...","textChars":10,"textLines":1,"bbox":[668,456,460,28]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":3,"bbox":[88,528,500,58]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"text":"I don't understand ...","textPreview":"I don't understand ...","textChars":22,"textLines":1,"bbox":[108,542,460,28]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":3,"bbox":[648,528,500,58]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":3,"text":"Could you speak more slowly?","textPreview":"Could you speak more slowly?","textChars":28,"textLines":1,"bbox":[668,542,460,28]}
+{"kind":"notes","id":"nt/whndvn","slide":3,"text":""}
+{"kind":"slide","id":"sl/g0b6fj","slide":4,"title":"REPLACE WORDS","textShapes":12}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":4,"text":"REPLACE WORDS","textPreview":"REPLACE WORDS","textChars":13,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":4,"text":"替换词表：学生会换，就会说","textPreview":"替换词表：学生会换，就会说","textChars":13,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":4,"bbox":[92,176,190,46]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":4,"text":"Food / Drink","textPreview":"Food / Drink","textChars":12,"textLines":1,"bbox":[106,186,162,24]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":4,"text":"fried rice, chicken rice, noodles, milk tea, iced Milo","textPreview":"fried rice, chicken rice, noodles, milk tea, iced Milo","textChars":54,"textLines":1,"bbox":[322,184,800,34]}
+{"kind":"shape","id":"sh/obm58z25","slide":4,"bbox":[92,260,190,46]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":4,"text":"Daily Items","textPreview":"Daily Items","textChars":11,"textLines":1,"bbox":[106,270,162,24]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":4,"text":"shampoo, toothpaste, tissues, notebook, plastic bag","textPreview":"shampoo, toothpaste, tissues, notebook, plastic bag","textChars":51,"textLines":1,"bbox":[322,268,800,34]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":4,"bbox":[92,344,190,46]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":4,"text":"Requests","textPreview":"Requests","textChars":8,"textLines":1,"bbox":[106,354,162,24]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":4,"text":"less sugar, no ice, less chilli, a receipt, large size","textPreview":"less sugar, no ice, less chilli, a receipt, large size","textChars":54,"textLines":1,"bbox":[322,352,800,34]}
+{"kind":"shape","id":"sh/p4r65wju","slide":4,"bbox":[92,428,190,46]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":4,"text":"Places","textPreview":"Places","textChars":6,"textLines":1,"bbox":[106,438,162,24]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":4,"text":"canteen, classroom, toilet, shop, school gate","textPreview":"canteen, classroom, toilet, shop, school gate","textChars":45,"textLines":1,"bbox":[322,436,800,34]}
+{"kind":"shape","id":"sh/i5sneloj","slide":4,"bbox":[92,512,190,46]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":4,"text":"People","textPreview":"People","textChars":6,"textLines":1,"bbox":[106,522,162,24]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":4,"text":"teacher, friend, cashier, waiter, parent","textPreview":"teacher, friend, cashier, waiter, parent","textChars":40,"textLines":1,"bbox":[322,520,800,34]}
+{"kind":"notes","id":"nt/g0b6fj","slide":4,"text":""}
+{"kind":"slide","id":"sl/dgiz0c","slide":5,"title":"GAME 1","textShapes":11}
+{"kind":"textbox","id":"sh/j2t83itg","slide":5,"text":"GAME 1","textPreview":"GAME 1","textChars":6,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":5,"text":"情境快选","textPreview":"情境快选","textChars":4,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":5,"text":"玩法","textPreview":"玩法","textChars":2,"textLines":1,"bbox":[92,180,180,36]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":5,"bbox":[102,250,28,28]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":5,"text":"老师显示中文情境","textPreview":"老师显示中文情境","textChars":8,"textLines":1,"bbox":[148,244,494,30]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":5,"text":"例：你在餐厅要看菜单。","textPreview":"例：你在餐厅要看菜单。","textChars":11,"textLines":1,"bbox":[148,278,494,36]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":5,"bbox":[102,350,28,28]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":5,"text":"学生选正确英文句子","textPreview":"学生选正确英文句子","textChars":9,"textLines":1,"bbox":[148,344,494,30]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":5,"text":"Can we see the menu, please?","textPreview":"Can we see the menu, please?","textChars":28,"textLines":1,"bbox":[148,378,494,36]}
+{"kind":"shape","id":"sh/vu9knih4","slide":5,"bbox":[102,450,28,28]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":5,"text":"答对后必须开口念","textPreview":"答对后必须开口念","textChars":8,"textLines":1,"bbox":[148,444,494,30]}
+{"kind":"textbox","id":"sh/d0z61032","slide":5,"text":"一题一分，声音清楚多一分。","textPreview":"一题一分，声音清楚多一分。","textChars":13,"textLines":1,"bbox":[148,478,494,36]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":5,"bbox":[730,190,360,300]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":5,"text":"Classroom tip","textPreview":"Classroom tip","textChars":13,"textLines":1,"bbox":[760,226,300,34]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":5,"text":"让学生先找关键词：餐厅、菜单、付款、少糖。不要急着翻译整句。","textPreview":"让学生先找关键词：餐厅、菜单、付款、少糖。不要急着翻译整句。","textChars":30,"textLines":1,"bbox":[760,284,300,120]}
+{"kind":"notes","id":"nt/dgiz0c","slide":5,"text":""}
+{"kind":"slide","id":"sl/lgkjg7","slide":6,"title":"GAME 2","textShapes":8}
+{"kind":"textbox","id":"sh/4nap4r65","slide":6,"text":"GAME 2","textPreview":"GAME 2","textChars":6,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":6,"text":"奶茶点单挑战","textPreview":"奶茶点单挑战","textChars":6,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":6,"text":"学生选择 drink + sugar + ice，自动组成完整句。","textPreview":"学生选择 drink + sugar + ice，自动组成完整句。","textChars":33,"textLines":1,"bbox":[84,166,1020,36]}
+{"kind":"shape","id":"sh/twra5gbq","slide":6,"bbox":[136,260,200,46]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":6,"text":"milk tea","textPreview":"milk tea","textChars":8,"textLines":1,"bbox":[150,270,172,24]}
+{"kind":"shape","id":"sh/bq1oryts","slide":6,"bbox":[386,260,200,46]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":6,"text":"less sugar","textPreview":"less sugar","textChars":10,"textLines":1,"bbox":[400,270,172,24]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":6,"bbox":[636,260,200,46]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":6,"text":"less ice","textPreview":"less ice","textChars":8,"textLines":1,"bbox":[650,270,172,24]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":6,"text":"Can I have one milk tea with less sugar and less ice, please?","textPreview":"Can I have one milk tea with less sugar and less ice, please?","textChars":61,"textLines":1,"bbox":[118,390,1000,86]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":6,"text":"升级玩法：学生必须加一个 topping，例如 pearls / pudding / grass jelly。","textPreview":"升级玩法：学生必须加一个 topping，例如 pearls / pudding / grass jelly。","textChars":55,"textLines":1,"bbox":[158,534,900,42]}
+{"kind":"notes","id":"nt/lgkjg7","slide":6,"text":""}
+{"kind":"slide","id":"sl/p4cmcr","slide":7,"title":"GAME 3","textShapes":11}
+{"kind":"textbox","id":"sh/dg7adsji","slide":7,"text":"GAME 3","textPreview":"GAME 3","textChars":6,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":7,"text":"句子拼拼乐","textPreview":"句子拼拼乐","textChars":5,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":7,"text":"把单词打乱，让学生点击或拿词卡排成正确句子。","textPreview":"把单词打乱，让学生点击或拿词卡排成正确句子。","textChars":22,"textLines":1,"bbox":[88,166,940,38]}
+{"kind":"shape","id":"sh/onyd0z61","slide":7,"bbox":[108,286,116,62]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":7,"text":"Can","textPreview":"Can","textChars":3,"textLines":1,"bbox":[108,306,116,24]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":7,"bbox":[256,286,116,62]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":7,"text":"I","textPreview":"I","textChars":1,"textLines":1,"bbox":[256,306,116,24]}
+{"kind":"shape","id":"sh/oj2t83it","slide":7,"bbox":[404,286,116,62]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":7,"text":"have","textPreview":"have","textChars":4,"textLines":1,"bbox":[404,306,116,24]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":7,"bbox":[552,286,116,62]}
+{"kind":"textbox","id":"sh/sji5snel","slide":7,"text":"one","textPreview":"one","textChars":3,"textLines":1,"bbox":[552,306,116,24]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":7,"bbox":[700,286,116,62]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":7,"text":"milk","textPreview":"milk","textChars":4,"textLines":1,"bbox":[700,306,116,24]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":7,"bbox":[848,286,116,62]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":7,"text":"tea","textPreview":"tea","textChars":3,"textLines":1,"bbox":[848,306,116,24]}
+{"kind":"shape","id":"sh/3m94fu18","slide":7,"bbox":[996,286,116,62]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":7,"text":"please","textPreview":"please","textChars":6,"textLines":1,"bbox":[996,306,116,24]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":7,"text":"课堂规则：排对 + 念出来 + 换一个关键词。","textPreview":"课堂规则：排对 + 念出来 + 换一个关键词。","textChars":23,"textLines":1,"bbox":[154,452,900,42]}
+{"kind":"notes","id":"nt/p4cmcr","slide":7,"text":""}
+{"kind":"slide","id":"sl/9xlk87","slide":8,"title":"GAME 4","textShapes":9}
+{"kind":"textbox","id":"sh/donyd0z6","slide":8,"text":"GAME 4","textPreview":"GAME 4","textChars":6,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":8,"text":"30秒快答","textPreview":"30秒快答","textChars":5,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"shape","id":"sh/vixczed8","slide":8,"bbox":[112,196,28,28]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":8,"text":"目标","textPreview":"目标","textChars":2,"textLines":1,"bbox":[158,190,834,30]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":8,"text":"训练学生快速把中文情境连接到英文句子。","textPreview":"训练学生快速把中文情境连接到英文句子。","textChars":19,"textLines":1,"bbox":[158,224,834,36]}
+{"kind":"shape","id":"sh/6psfil0r","slide":8,"bbox":[112,312,28,28]}
+{"kind":"textbox","id":"sh/val87ed8","slide":8,"text":"玩法","textPreview":"玩法","textChars":2,"textLines":1,"bbox":[158,306,834,30]}
+{"kind":"textbox","id":"sh/knih4byh","slide":8,"text":"30 秒内连续选答案。答对马上下一题。","textPreview":"30 秒内连续选答案。答对马上下一题。","textChars":19,"textLines":1,"bbox":[158,340,834,36]}
+{"kind":"shape","id":"sh/d8bat47y","slide":8,"bbox":[112,428,28,28]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":8,"text":"奖励","textPreview":"奖励","textChars":2,"textLines":1,"bbox":[158,422,834,30]}
+{"kind":"textbox","id":"sh/0z61032l","slide":8,"text":"个人最高分 / 小组最高分 / 最清楚发音奖。","textPreview":"个人最高分 / 小组最高分 / 最清楚发音奖。","textChars":23,"textLines":1,"bbox":[158,456,834,36]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":8,"text":"老师提示：快答不是为了压力，是为了让句子变熟。","textPreview":"老师提示：快答不是为了压力，是为了让句子变熟。","textChars":23,"textLines":1,"bbox":[132,560,900,36]}
+{"kind":"notes","id":"nt/9xlk87","slide":8,"text":""}
+{"kind":"slide","id":"sl/190fbz","slide":9,"title":"GAME 5","textShapes":9}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":9,"text":"GAME 5","textPreview":"GAME 5","textChars":6,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/d0z61032","slide":9,"text":"角色扮演转盘","textPreview":"角色扮演转盘","textChars":6,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":9,"bbox":[82,220,320,220]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":9,"text":"Role A","textPreview":"Role A","textChars":6,"textLines":1,"bbox":[106,252,260,28]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":9,"text":"Customer","textPreview":"Customer","textChars":8,"textLines":1,"bbox":[106,314,260,92]}
+{"kind":"shape","id":"sh/d8bat47y","slide":9,"bbox":[462,220,320,220]}
+{"kind":"textbox","id":"sh/knih4byh","slide":9,"text":"Situation","textPreview":"Situation","textChars":9,"textLines":1,"bbox":[486,252,260,28]}
+{"kind":"textbox","id":"sh/val87ed8","slide":9,"text":"Buy milk tea with less sugar.","textPreview":"Buy milk tea with less sugar.","textChars":29,"textLines":1,"bbox":[486,314,260,92]}
+{"kind":"shape","id":"sh/6psfil0r","slide":9,"bbox":[842,220,320,220]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":9,"text":"Useful line","textPreview":"Useful line","textChars":11,"textLines":1,"bbox":[866,252,260,28]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":9,"text":"Can I have one milk tea with less sugar, please?","textPreview":"Can I have one milk tea with less sugar, please?","textChars":48,"textLines":1,"bbox":[866,314,260,92]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":9,"text":"学生两人一组：A 先说，B 回应，然后交换角色。","textPreview":"学生两人一组：A 先说，B 回应，然后交换角色。","textChars":24,"textLines":1,"bbox":[146,532,900,42]}
+{"kind":"notes","id":"nt/190fbz","slide":9,"text":""}
+{"kind":"slide","id":"sl/sabc7z","slide":10,"title":"TEACHER SCRIPT","textShapes":12}
+{"kind":"textbox","id":"sh/svu9knih","slide":10,"text":"TEACHER SCRIPT","textPreview":"TEACHER SCRIPT","textChars":14,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":10,"text":"Ms Shirley 可以这样带","textPreview":"Ms Shirley 可以这样带","textChars":16,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":10,"text":"1.","textPreview":"1.","textChars":2,"textLines":1,"bbox":[118,184,60,36]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":10,"text":"Listen first. Don't translate word by word.","textPreview":"Listen first. Don't translate word by word.","textChars":43,"textLines":1,"bbox":[182,184,880,40]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":10,"text":"2.","textPreview":"2.","textChars":2,"textLines":1,"bbox":[118,262,60,36]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":10,"text":"Repeat after me: Can I have one milk tea, please?","textPreview":"Repeat after me: Can I have one milk tea, please?","textChars":49,"textLines":1,"bbox":[182,262,880,40]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":10,"text":"3.","textPreview":"3.","textChars":2,"textLines":1,"bbox":[118,340,60,36]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":10,"text":"Now change one word: milk tea -> iced Milo.","textPreview":"Now change one word: milk tea -> iced Milo.","textChars":43,"textLines":1,"bbox":[182,340,880,40]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":10,"text":"4.","textPreview":"4.","textChars":2,"textLines":1,"bbox":[118,418,60,36]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":10,"text":"Ask your partner. Your partner must answer: Sure.","textPreview":"Ask your partner. Your partner must answer: Sure.","textChars":49,"textLines":1,"bbox":[182,418,880,40]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":10,"text":"5.","textPreview":"5.","textChars":2,"textLines":1,"bbox":[118,496,60,36]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":10,"text":"One more time, but louder and more natural.","textPreview":"One more time, but louder and more natural.","textChars":43,"textLines":1,"bbox":[182,496,880,40]}
+{"kind":"notes","id":"nt/sabc7z","slide":10,"text":""}
+{"kind":"slide","id":"sl/3nhafj","slide":11,"title":"CLASS PLAN","textShapes":10}
+{"kind":"textbox","id":"sh/cbulwval","slide":11,"text":"CLASS PLAN","textPreview":"CLASS PLAN","textChars":10,"textLines":1,"bbox":[70,44,520,28]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":11,"text":"一堂课可以这样用","textPreview":"一堂课可以这样用","textChars":8,"textLines":1,"bbox":[70,82,1040,68]}
+{"kind":"shape","id":"sh/u54zidon","slide":11,"bbox":[110,194,150,46]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":11,"text":"0-3 min","textPreview":"0-3 min","textChars":7,"textLines":1,"bbox":[124,204,122,24]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":11,"text":"Warm up: repeat 3 magic sentences","textPreview":"Warm up: repeat 3 magic sentences","textChars":33,"textLines":1,"bbox":[306,202,760,34]}
+{"kind":"shape","id":"sh/neloj2t8","slide":11,"bbox":[110,286,150,46]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":11,"text":"3-7 min","textPreview":"3-7 min","textChars":7,"textLines":1,"bbox":[124,296,122,24]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":11,"text":"Replace words: food, drinks, daily items","textPreview":"Replace words: food, drinks, daily items","textChars":40,"textLines":1,"bbox":[306,294,760,34]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":11,"bbox":[110,378,150,46]}
+{"kind":"textbox","id":"sh/u54zidon","slide":11,"text":"7-12 min","textPreview":"7-12 min","textChars":8,"textLines":1,"bbox":[124,388,122,24]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":11,"text":"Game time: scene quick pick or milk tea challenge","textPreview":"Game time: scene quick pick or milk tea challenge","textChars":49,"textLines":1,"bbox":[306,386,760,34]}
+{"kind":"shape","id":"sh/cbulwval","slide":11,"bbox":[110,470,150,46]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":11,"text":"12-15 min","textPreview":"12-15 min","textChars":9,"textLines":1,"bbox":[124,480,122,24]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":11,"text":"Pair roleplay: speak without looking","textPreview":"Pair roleplay: speak without looking","textChars":36,"textLines":1,"bbox":[306,478,760,34]}
+{"kind":"notes","id":"nt/3nhafj","slide":11,"text":""}
+{"kind":"slide","id":"sl/r62i7g","slide":12,"title":"Final Challenge","textShapes":5}
+{"kind":"textbox","id":"sh/vy90je9c","slide":12,"text":"Final Challenge","textPreview":"Final Challenge","textChars":15,"textLines":1,"bbox":[70,74,520,40]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":12,"text":"Speak 3 Sentences","textPreview":"Speak 3 Sentences","textChars":17,"textLines":1,"bbox":[70,132,820,78]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":12,"text":"Before students leave, each pair must say:","textPreview":"Before students leave, each pair must say:","textChars":42,"textLines":1,"bbox":[74,230,900,38]}
+{"kind":"textbox","id":"sh/61032lsz","slide":12,"text":"1 request + 1 shopping sentence + 1 polite sentence","textPreview":"1 request + 1 shopping sentence + 1 polite sentence","textChars":51,"textLines":1,"bbox":[110,318,960,48]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":12,"text":"English becomes useful when students can use it in tiny real moments.","textPreview":"English becomes useful when students can use it in tiny real moments.","textChars":69,"textLines":1,"bbox":[150,510,900,60]}
+{"kind":"notes","id":"nt/r62i7g","slide":12,"text":""}
